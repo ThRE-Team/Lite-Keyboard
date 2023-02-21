@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backspace_old">←</string>
+    <string name="enter_old">↩</string>
+    <string name="search_old">🔍</string>
+    <string name="language_old">🌐</string>
+    <string name="shift_old">⇧</string>
+	<string name="search">Go</string>
+	<string name="language">Fn</string>
+    <string name="go_key">Go</string>
+    <string name="next_key">Next</string>
+    <string name="send_key">Send</string>
+	<string name="enter">Enter</string>
+	<string name="shift">Shift</string>
+	<string name="backspace">Del</string>
+	<string name="sym">Sym</string>
+	<string name="abc">Abc</string>
+	<string name="space">Space</string>
+	<string name="up">U</string>
+	<string name="down">D</string>
+	<string name="left">◀</string>
+	<string name="right">▶</string>
+</resources>
